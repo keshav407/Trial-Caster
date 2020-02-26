@@ -8,7 +8,7 @@
 
 **![alt text](https://caster.so/static/images/logo.svg)**
 
-**[Caster] (https://caster.so) Is A Web Based Quiz application available on ios and android it consists**
+**[Caster](https://caster.so) Is A Web Based Quiz application available on ios and android it consists**
 ```sh
 [Caster] (https://caster.so) Is A Web Based Quiz application available on ios and android it consists
 of 4 different casts which depict a certain type of quiz having one right answer choice, which are as follow
