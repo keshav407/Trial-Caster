@@ -5,9 +5,9 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/mckinley-and-rice/mcrice-ems-api.svg?token=e1c88747bafbd4d8bf95cba8d7204f564832677ebd6ed374e99a2805dc0fafb1&ts=1577115667617)](https://greenkeeper.io/)
 
 ## Introduction
-```sh
+
 **![alt text](https://caster.so/static/images/logo.svg)**
-```
+
 **[Caster] (https://caster.so) Is A Web Based Quiz application available on ios and android it consists**
 ```sh
 [Caster] (https://caster.so) Is A Web Based Quiz application available on ios and android it consists
